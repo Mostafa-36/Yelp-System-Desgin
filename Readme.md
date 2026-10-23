@@ -12,9 +12,6 @@ A system design case study for a Yelp-like platform that allows users to discove
 4. [API Design]
 5. [High-Level Design]
 6. [Deep Dives]
-7. [Key Design Considerations]
-8. [Out of Scope]
-9. [Further Improvements]
 
 ---
 
